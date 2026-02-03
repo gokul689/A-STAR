@@ -296,7 +296,10 @@ goal = input()
 
 aStarAlgo(start, goal)
 ```
+
+
 # OUTPUT:
+
 <img width="396" height="565" alt="Screenshot 2026-02-03 194235" src="https://github.com/user-attachments/assets/e312dc02-b707-43da-be46-c40371c52f60" />
 
 <h2>RESULT :</h2>
